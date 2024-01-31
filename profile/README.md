@@ -1,12 +1,6 @@
 # YED
 Yed Another Developing React Packages
 
-I was learning to develop products with React, and during the process I created some components.
-
-Although there are already a large number of excellent components, making your own components is a very important learning process in the process of learning React.
-
-So, here are the components.
-
 If you come across any issues, please submit them in the corresponding package's repository as an issue. Feel free to share your concerns in the #bug-reports channel as well on [Discord](https://community.yed.app).
 
 Feel free to register your package. Check [here](https://github.com/yedapp/Registration).
