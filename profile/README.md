@@ -7,8 +7,6 @@ Although there are already a large number of excellent components, making your o
 
 So, here are the components.
 
-### Welcome
-
 Feel free to register your package. Check [here](https://github.com/yedapp/Registration).
 
 ### Contact
