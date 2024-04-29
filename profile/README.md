@@ -1,5 +1,5 @@
 # YECI
-Yet Another Developing React Packages
+Yet Another React Developing Packages
 
 If you come across any issues, please submit them in the corresponding package's repository as an issue.
 
